@@ -1,2 +1,1 @@
 print("aaa")
-print("cccv")
